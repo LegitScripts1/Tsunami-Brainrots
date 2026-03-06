@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/5gPduX7kN9/0"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Redvyn/Red/main/57f91f19.lua", true))()
